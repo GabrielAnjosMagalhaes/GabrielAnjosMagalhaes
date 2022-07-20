@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @GabrielAnjosMagalhaes
-- 👀 Tenho interesse em Html, JavaScript, Sql e CSS 
+- 👀 Tenho interesse em Html, JavaScript, Sql, CSS e C#
 - 🌱 Estou aprendendo atualmente JavaScript e BootStrap
 <!---
 GabrielAnjosMagalhaes/GabrielAnjosMagalhaes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
